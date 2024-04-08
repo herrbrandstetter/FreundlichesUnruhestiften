@@ -35,7 +35,6 @@
                 <div class="px-5 py-8 flex flex-col justify-evenly gap-7 md:flex-row">
                     <div class="max-w-[36rem] flex flex-col gap-7">
                         <h1 id="start" class="text-4xl font-bold drop-shadow-heading lg:text-5xl lg:leading-tight">Freundliches Unruhestiften</h1>
-                        <!-- <div class="w-[15%] h-[2px] rounded-sm shadow-main bg-white"></div> -->
                         <h2 class="text-2xl font-bold drop-shadow-heading lg:text-3xl lg:leading-tight">Der etwas andere Nachhaltigkeits&shy;podcast</h2>
                     </div>
                     <div class="max-w-[36rem] flex flex-col gap-7 md:pt-28">
