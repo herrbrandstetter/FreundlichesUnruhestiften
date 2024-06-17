@@ -1,5 +1,3 @@
-<script setup></script>
-
 <template>
     <dialog @cancel.prevent id="cookie-dialog" aria-labelledby="privatsphäre" class="p-7 mx-5 max-w-[48rem] rounded border-2 flex-col items-center gap-7 bg-darkgray text-white selection:bg-sage sm:p-12 md:mx-auto">
         <h1 id="privatsphäre" class="text-2xl text-center font-bold drop-shadow-heading sm:text-3xl">Privatsphäre-Einstellungen</h1>

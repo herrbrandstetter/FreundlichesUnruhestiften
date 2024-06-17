@@ -27,7 +27,6 @@
         <div id="podcast-player" class="p-4 rounded bg-sage space-y-4 flex flex-col items-center scroll-m-[7.25rem]">
             <img :src="`/img/${selectedEp.image}.webp`" :alt="selectedEp.imgAlt" class="w-1/2 max-w-72 rounded">
             <h2 class="text-xl text-center font-bold drop-shadow-text">{{ selectedEp.title }}</h2>
-            <!-- <div class="w-[15%] h-[2px] rounded-sm shadow-main bg-white"></div> -->
             <p class="text-center drop-shadow-text">{{ selectedEp.description }}</p>
             <iframe v-if="cookieConsent" :src="`https://redcircle.com/embedded-player/sh/freundlichesunruhestiften/ep/${selectedEp.link}`" class="w-full max-w-[570px] rounded" title="Freundliches Unruhestiften Podcast player"></iframe>
             <a v-else :href="`https://redcircle.com/shows/freundlichesunruhestiften/ep/${selectedEp.link}`" target="_blank" class="p-3 rounded flex items-center gap-3 bg-darkgray hover:outline outline-2">

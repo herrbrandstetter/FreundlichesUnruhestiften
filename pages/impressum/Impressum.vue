@@ -10,23 +10,6 @@
         <h2 class="text-2xl font-bold">Angaben gemäß § 5 TMG</h2>
         <div class="flex flex-col gap-7 lg:flex-row">
             <div class="space-y-4">
-                <!-- <h3 class="text-xl font-bold">Neopol</h3>
-                <p>
-                    Neopol, c/o Daniel Rahaus<br>
-                    Ein Projekt der IB-Stiftung<br>
-                    z.H. Ronny Geißler<br>
-                    Valentin-Senger-Straße 5<br>
-                    60389 Frankfurt am Main
-                </p>
-                <p>
-                    Telefon: <a href="tel:+496994545118" class="underline hover:no-underline">069 9 45 45 118</a><br>
-                    E-Mail: <a href="mailto:kontakt@ib-stiftung.de" class="underline hover:no-underline">kontakt@ib-stiftung.de</a><br>
-                    Webseite: <a href="https://neopol.org/" target="_blank" class="underline hover:no-underline">www.neopol.org</a>
-                </p>
-                <p>
-                    Die IB-Stiftung ist eine rechtsfähige Stiftung bürgerlichen Rechts mit Sitz in Frankfurt am Main.<br>
-                    Zuständige Aufsichtsbehörde: Stiftungsaufsicht, Stadtverwaltung (Amt 30), 60275 Frankfurt am Main
-                </p> -->
                 <p>
                     Beatris Uhlig<br>
                     Diplom Psychologin – uhlig*partner<br>
@@ -45,8 +28,6 @@
                 </p>
             </div>
             <div class="space-y-4">
-                <!-- <h3 class="text-xl font-bold">Inhalte</h3> -->
-                
                 <p>
                     Dr. Sven Werchan<br>
                     Webseite: <a href="https://www.integrale-ernaehrung.de/" target="_blank" class="underline hover:no-underline">www.integrale-ernaehrung.de</a>
